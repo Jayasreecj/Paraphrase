@@ -1,0 +1,72 @@
+#html
+<html>
+    <body>
+        <table >
+            <table cellpadding='30px', width="70%",height='80px' border="1px"border-collapse="collapse">
+                <th>
+                <a float='left',href='file:///C:/Users/MyPc/Desktop/GI/htmland%20css/ttr.html'rel='noflow'><</a>
+                <th colspan="5",text-align="center">JANUARY 2021</th> 
+                <th><a float='right',href='file:///C:/Users/MyPc/Desktop/GI/htmland%20css/ttr.html' rel='noflow'>></a>
+              
+                <tr height='10px'>
+                    <th cellspacing='10px'text-align='left'>S</th>
+                    <th cellspacing='10px'text-align='left'>M</th>
+                    <th cellspacing='10px'text-align='left'>T</th>
+                    <th cellspacing='10px'text-align='left'>W</th>
+                    <th cellspacing='10px'text-align='left'>T</th>
+                    <th cellspacing='10px'text-align='left'>F</th>
+                    <th cellspacing='10px'text-align='left'>S</th> 
+                </tr>
+            </th>
+    <tr height='0'>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td text-align='top'>1<br></td>
+        <td text-align='top'>2<br></td>
+    </tr>
+    <tr  height=0>
+        <td text-align='top'>3<br></td>
+        <td text-align='top'>4<br></td>
+        <td text-align='top'>5<br></td>
+   
+        <td text-align='top'>6<br></td>
+        <td text-align='top'>7<br></td>
+        <td text-align='top'>8<br></td>
+        <td text-align='top'>9<br></td>
+    </tr>
+    <tr  height=0>
+        <td text-align='top'>10<br></td>
+        <td text-align='top'>11<br></td>
+        <td text-align='top'>12<br></td>
+     <td text-align='top'>13<br></td>
+     <td text-align='top'>14<br></td>
+     <td text-align='top'>15<br></td>
+     <td text-align='top'>16<br></td>
+    </tr>
+    <tr  height=0>
+     <td text-align='top'>17<br></td>
+     <td text-align='top'>18<br></td>
+     <td text-align='top'>19<br></td>
+        <td text-align='top'>20<br></td>
+        <td text-align='top'>21<br></td>
+        <td text-align='top'>22<br></td>
+        <td text-align='top'>23<br></td>
+    </tr>
+    <tr  height=0>
+        <td text-align='top'>24<br></td>
+        <td text-align='top'>25<br></td>
+        <td text-align='top'>26<br></td>
+    
+        <td text-align='top'>27<br></td>
+        <td text-align='top'>28<br></td>
+        <td text-align='top'>29<br></td>
+        <td text-align='top'>30<br></td>
+    <tr>
+        <td text-align='top'>31<br></td>
+        </tr>
+    </table></td></tr></table>
+    </body>
+</html>
